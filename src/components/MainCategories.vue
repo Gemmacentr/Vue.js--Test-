@@ -86,7 +86,7 @@ main {
     flex: 20 10 200px;
   }
 @media only screen and (max-width: 600px) {
-    main {
+  main {
     height: 100%;
 }
 }
