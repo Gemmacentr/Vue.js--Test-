@@ -83,8 +83,8 @@ main {
     box-shadow: 5px 10px #888888;
   }
  .flex-container> * {
-        flex: 20 10 200px;
-    }
+    flex: 20 10 200px;
+  }
 @media only screen and (max-width: 600px) {
     main {
     height: 100%;
